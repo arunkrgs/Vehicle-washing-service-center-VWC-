@@ -5,3 +5,4 @@
 4. Once you register your vehicle for service or booked slot for service then you got diapaly massage on same page.
 5. Using css change background color, shadow behind form box.
 6. All data like user registration from detials, vehicle registration for service details are saved in mysql database.
+7. This project are created using Spring Boot, JPA, JSP, JSTL Tags, HTML, CSS.
